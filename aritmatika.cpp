@@ -9,4 +9,3 @@ int main(){
 	c = a + b;
 	cout << "Hasilnya adalah : " << c;
 }
-
